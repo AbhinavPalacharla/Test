@@ -1,0 +1,181 @@
+{"prompt":"Locate the endpoint with the slowest response time.","completion":"find_slowest_endpoint"}
+{"prompt":"Identify the endpoint that exhibits the highest latency.","completion":"find_slowest_endpoint"}
+{"prompt":"Pinpoint the slowest endpoint in the network.","completion":"find_slowest_endpoint"}
+{"prompt":"Find out which endpoint has the most pronounced lag.","completion":"find_slowest_endpoint"}
+{"prompt":"Determine the endpoint that is contributing to slow performance.","completion":"find_slowest_endpoint"}
+{"prompt":"Discover the endpoint with the longest delay.","completion":"find_slowest_endpoint"}
+{"prompt":"Which endpoint is responsible for the network's sluggishness?","completion":"find_slowest_endpoint"}
+{"prompt":"Locate the endpoint that is causing delays in the network.","completion":"find_slowest_endpoint"}
+{"prompt":"Identify the endpoint with the weakest speed.","completion":"find_slowest_endpoint"}
+{"prompt":"Pinpoint the endpoint that is slowing down data transmission.","completion":"find_slowest_endpoint"}
+{"prompt":"Find the endpoint with the poorest performance.","completion":"find_slowest_endpoint"}
+{"prompt":"Which endpoint's speed is the lowest?","completion":"find_slowest_endpoint"}
+{"prompt":"Determine the endpoint that is affecting network efficiency.","completion":"find_slowest_endpoint"}
+{"prompt":"Locate the endpoint responsible for the slowest data transfer.","completion":"find_slowest_endpoint"}
+{"prompt":"Identify the endpoint that is causing latency issues.","completion":"find_slowest_endpoint"}
+{"prompt":"Pinpoint the endpoint with the highest response time.","completion":"find_slowest_endpoint"}
+{"prompt":"Find out which endpoint is experiencing the most significant lag.","completion":"find_slowest_endpoint"}
+{"prompt":"Discover the endpoint that is leading to performance bottlenecks.","completion":"find_slowest_endpoint"}
+{"prompt":"Which endpoint's performance is below par?","completion":"find_slowest_endpoint"}
+{"prompt":"Determine the endpoint that is impacting overall network speed.","completion":"find_slowest_endpoint"}
+{"prompt":"Locate the source of the most significant latency in the network.","completion":"find_slowest_endpoint"}
+{"prompt":"Identify the endpoint that is causing the most pronounced lag.","completion":"find_slowest_endpoint"}
+{"prompt":"Pinpoint the endpoint with the highest response time.","completion":"find_slowest_endpoint"}
+{"prompt":"Find out which endpoint is experiencing the most significant delay.","completion":"find_slowest_endpoint"}
+{"prompt":"Locate the endpoint with the slowest response time.","completion":"find_slowest_endpoint"}
+{"prompt":"Identify the endpoint that exhibits the highest latency.","completion":"find_slowest_endpoint"}
+{"prompt":"Locate the endpoint with the fastest response time.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Identify the endpoint that exhibits the lowest latency.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Pinpoint the fastest endpoint in the network.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Find out which endpoint has the most efficient performance.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Determine the endpoint that is contributing to fast network speed.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Discover the endpoint with the shortest delay.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Which endpoint is responsible for the network's optimal performance?","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Locate the endpoint that is ensuring swift data transmission.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Identify the endpoint with the highest speed.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Pinpoint the endpoint that is boosting overall network efficiency.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Find the endpoint with the best performance.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Determine the endpoint that is positively impacting network responsiveness.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Locate the endpoint responsible for the fastest data transfer.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Identify the endpoint that is contributing to minimal latency.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Pinpoint the endpoint with the quickest response time.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Find out which endpoint is experiencing the least lag.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Discover the endpoint that is leading to enhanced network performance.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Which endpoint's performance is exceptional?","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Determine the endpoint that is optimizing overall network speed.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Locate the source of the most significant latency in the network.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Identify the endpoint that is causing the most pronounced lag.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Pinpoint the endpoint with the highest response time.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Find out which endpoint is experiencing the most significant delay.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Discover the endpoint that is leading to performance bottlenecks.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Which endpoint's performance is below par?","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Determine the endpoint that is impacting overall network speed.","completion":"find_fastest_endpoint_prompts"}
+{"prompt":"Why is my network experiencing reduced speed?","completion":"slow_network"}
+{"prompt":"What measures can I take to address my network's sluggishness?","completion":"slow_network"}
+{"prompt":"Is there a way to enhance the speed of my network?","completion":"slow_network"}
+{"prompt":"How do I troubleshoot and improve my network's slow performance?","completion":"slow_network"}
+{"prompt":"Why are there delays in my network's data transmission?","completion":"slow_network"}
+{"prompt":"Are there specific areas of my network that are contributing to its slowness?","completion":"slow_network"}
+{"prompt":"What steps can I follow to boost my network's overall speed?","completion":"slow_network"}
+{"prompt":"Why am I encountering latency issues within my network?","completion":"slow_network"}
+{"prompt":"What might be causing my network to operate slower than usual?","completion":"slow_network"}
+{"prompt":"How can I identify and rectify the sources of my network's poor speed?","completion":"slow_network"}
+{"prompt":"Why is my network's response time far from optimal?","completion":"slow_network"}
+{"prompt":"What are the possible reasons behind my network's underwhelming performance?","completion":"slow_network"}
+{"prompt":"Is there a way to pinpoint the origins of my network's slow response times?","completion":"slow_network"}
+{"prompt":"What factors should I investigate to uncover the root causes of my network's slowness?","completion":"slow_network"}
+{"prompt":"How can I diagnose and address the slow pace of my network?","completion":"slow_network"}
+{"prompt":"Why is my network not meeting the expected speed standards?","completion":"slow_network"}
+{"prompt":"What strategies can I employ to minimize latency in my network?","completion":"slow_network"}
+{"prompt":"What steps can I take to troubleshoot the sources of my network's sluggishness?","completion":"slow_network"}
+{"prompt":"Why is my network's performance falling short of desired levels?","completion":"slow_network"}
+{"prompt":"How can I analyze and alleviate my network's poor speed?","completion":"slow_network"}
+{"prompt":"What practices should I adopt to enhance my network's responsiveness?","completion":"slow_network"}
+{"prompt":"Why has my network's efficiency decreased and what can I do about it?","completion":"slow_network"}
+{"prompt":"What could be the reasons behind my network's lackluster speed?","completion":"slow_network"}
+{"prompt":"How can I identify specific devices or components causing my network to be slow?","completion":"slow_network"}
+{"prompt":"Why is my network's speed not living up to its potential?","completion":"slow_network"}
+{"prompt":"What factors should I consider when addressing my network's slow performance?","completion":"slow_network"}
+{"prompt":"Could you provide an update on the network's current performance?","completion":"current_network_performance"}
+{"prompt":"What's the real-time status of the network's performance?","completion":"current_network_performance"}
+{"prompt":"How would you describe the network's performance at this moment?","completion":"current_network_performance"}
+{"prompt":"Can you give me an overview of how the network is performing right now?","completion":"current_network_performance"}
+{"prompt":"What's the present state of the network's performance?","completion":"current_network_performance"}
+{"prompt":"I'm interested in knowing how well the network is doing right now.","completion":"current_network_performance"}
+{"prompt":"Could you share the current performance metrics of the network?","completion":"current_network_performance"}
+{"prompt":"What's the immediate performance assessment of the network?","completion":"current_network_performance"}
+{"prompt":"How are the network's operations running presently?","completion":"current_network_performance"}
+{"prompt":"What's the up-to-the-minute evaluation of the network's performance?","completion":"current_network_performance"}
+{"prompt":"I'd like to know the current health of the network's performance.","completion":"current_network_performance"}
+{"prompt":"Could you give me an update on the network's performance in real-time?","completion":"current_network_performance"}
+{"prompt":"What's the network's performance like in the present moment?","completion":"current_network_performance"}
+{"prompt":"How's the network faring in terms of performance right now?","completion":"current_network_performance"}
+{"prompt":"Can you provide an on-the-spot assessment of the network's performance?","completion":"current_network_performance"}
+{"prompt":"What's the status of the network's performance at this very instant?","completion":"current_network_performance"}
+{"prompt":"Could you briefly outline the network's performance as of now?","completion":"current_network_performance"}
+{"prompt":"How's the network holding up in terms of performance currently?","completion":"current_network_performance"}
+{"prompt":"What's the current report on the network's performance?","completion":"current_network_performance"}
+{"prompt":"Can you give me a snapshot of the network's performance right now?","completion":"current_network_performance"}
+{"prompt":"What's the current performance level of the network?","completion":"current_network_performance"}
+{"prompt":"How's the network's performance looking at the present time?","completion":"current_network_performance"}
+{"prompt":"Could you update me on how well the network is performing at the moment?","completion":"current_network_performance"}
+{"prompt":"What's the current performance status of the network?","completion":"current_network_performance"}
+{"prompt":"How's the network's performance measured at this point in time?","completion":"current_network_performance"}
+{"prompt":"Could you give me an update on how the network is performing today?","completion":"performance_today"}
+{"prompt":"What's the current status of the network's performance for today?","completion":"performance_today"}
+{"prompt":"How would you describe the network's performance on this day?","completion":"performance_today"}
+{"prompt":"Can you provide a summary of the network's performance for today?","completion":"performance_today"}
+{"prompt":"What's the performance report for the network on this specific day?","completion":"performance_today"}
+{"prompt":"I'm interested in knowing how well the network is performing today.","completion":"performance_today"}
+{"prompt":"Could you share the performance metrics of the network for today?","completion":"performance_today"}
+{"prompt":"How are the network's operations running on this day?","completion":"performance_today"}
+{"prompt":"What's the assessment of the network's performance for today?","completion":"performance_today"}
+{"prompt":"I'd like to know the health of the network's performance for today.","completion":"performance_today"}
+{"prompt":"Can you provide an overview of the network's performance for today?","completion":"performance_today"}
+{"prompt":"What's the network's performance like on this particular day?","completion":"performance_today"}
+{"prompt":"How's the network faring in terms of performance today?","completion":"performance_today"}
+{"prompt":"Could you briefly outline the network's performance for today?","completion":"performance_today"}
+{"prompt":"What's the status of the network's performance on this day?","completion":"performance_today"}
+{"prompt":"How's the network holding up in terms of performance today?","completion":"performance_today"}
+{"prompt":"What's the report on the network's performance for today?","completion":"performance_today"}
+{"prompt":"Can you give me an idea of the network's performance today?","completion":"performance_today"}
+{"prompt":"What's the current performance level of the network for today?","completion":"performance_today"}
+{"prompt":"How's the network's performance looking on this day?","completion":"performance_today"}
+{"prompt":"Could you update me on how well the network is performing today?","completion":"performance_today"}
+{"prompt":"What's the performance status of the network for today?","completion":"performance_today"}
+{"prompt":"How's the network's performance measured on this day?","completion":"performance_today"}
+{"prompt":"Can you provide a performance overview for the network today?","completion":"performance_today"}
+{"prompt":"What's the current performance assessment for the network today?","completion":"performance_today"}
+{"prompt":"How's the network's performance today in comparison to previous days?","completion":"performance_today"}
+{"prompt":"How has the network been performing this week?","completion":"performance_this_week"}
+{"prompt":"What is the network's performance like for this week?","completion":"performance_this_week"}
+{"prompt":"Can you provide an update on the network's performance this week?","completion":"performance_this_week"}
+{"prompt":"What's the performance report for the network this week?","completion":"performance_this_week"}
+{"prompt":"How would you describe the network's performance over the course of this week?","completion":"performance_this_week"}
+{"prompt":"What's the assessment of the network's performance for this week?","completion":"performance_this_week"}
+{"prompt":"I'm interested in knowing how well the network has been performing this week.","completion":"performance_this_week"}
+{"prompt":"Could you share the performance metrics of the network for this week?","completion":"performance_this_week"}
+{"prompt":"How have the network's operations been running this week?","completion":"performance_this_week"}
+{"prompt":"What's the current status of the network's performance for this week?","completion":"performance_this_week"}
+{"prompt":"Can you give me a summary of the network's performance this week?","completion":"performance_this_week"}
+{"prompt":"What's the network's performance like over the span of this week?","completion":"performance_this_week"}
+{"prompt":"How's the network faring in terms of performance during this week?","completion":"performance_this_week"}
+{"prompt":"Could you briefly outline the network's performance for this week?","completion":"performance_this_week"}
+{"prompt":"What's the status of the network's performance during this week?","completion":"performance_this_week"}
+{"prompt":"How's the network holding up in terms of performance this week?","completion":"performance_this_week"}
+{"prompt":"What's the report on the network's performance this week?","completion":"performance_this_week"}
+{"prompt":"Can you provide an overview of the network's performance for this week?","completion":"performance_this_week"}
+{"prompt":"What's the current performance level of the network for this week?","completion":"performance_this_week"}
+{"prompt":"How's the network's performance looking this week?","completion":"performance_this_week"}
+{"prompt":"Could you update me on how well the network has been performing this week?","completion":"performance_this_week"}
+{"prompt":"What's the performance status of the network this week?","completion":"performance_this_week"}
+{"prompt":"How's the network's performance measured during this week?","completion":"performance_this_week"}
+{"prompt":"What trends have emerged in the network's performance this week?","completion":"performance_this_week"}
+{"prompt":"How does the network's performance this week compare to previous weeks?","completion":"performance_this_week"}
+{"prompt":"What can you tell me about the network's performance during this week?","completion":"performance_this_week"}
+{"prompt":"How has the network been performing this month?","completion":"performance_this_month"}
+{"prompt":"What is the network's performance like for this month?","completion":"performance_this_month"}
+{"prompt":"Can you provide an update on the network's performance this month?","completion":"performance_this_month"}
+{"prompt":"What's the performance report for the network this month?","completion":"performance_this_month"}
+{"prompt":"How would you describe the network's performance over the course of this month?","completion":"performance_this_month"}
+{"prompt":"What's the assessment of the network's performance for this month?","completion":"performance_this_month"}
+{"prompt":"I'm interested in knowing how well the network has been performing this month.","completion":"performance_this_month"}
+{"prompt":"Could you share the performance metrics of the network for this month?","completion":"performance_this_month"}
+{"prompt":"How have the network's operations been running this month?","completion":"performance_this_month"}
+{"prompt":"What's the current status of the network's performance for this month?","completion":"performance_this_month"}
+{"prompt":"Can you give me a summary of the network's performance this month?","completion":"performance_this_month"}
+{"prompt":"What's the network's performance like over the span of this month?","completion":"performance_this_month"}
+{"prompt":"How's the network faring in terms of performance during this month?","completion":"performance_this_month"}
+{"prompt":"Could you briefly outline the network's performance for this month?","completion":"performance_this_month"}
+{"prompt":"What's the status of the network's performance during this month?","completion":"performance_this_month"}
+{"prompt":"How's the network holding up in terms of performance this month?","completion":"performance_this_month"}
+{"prompt":"What's the report on the network's performance this month?","completion":"performance_this_month"}
+{"prompt":"Can you provide an overview of the network's performance for this month?","completion":"performance_this_month"}
+{"prompt":"What's the current performance level of the network for this month?","completion":"performance_this_month"}
+{"prompt":"How's the network's performance looking this month?","completion":"performance_this_month"}
+{"prompt":"Could you update me on how well the network has been performing this month?","completion":"performance_this_month"}
+{"prompt":"What's the performance status of the network this month?","completion":"performance_this_month"}
+{"prompt":"How's the network's performance measured during this month?","completion":"performance_this_month"}
+{"prompt":"What trends have emerged in the network's performance this month?","completion":"performance_this_month"}
+{"prompt":"How does the network's performance this month compare to previous months?","completion":"performance_this_month"}
+{"prompt":"What can you tell me about the network's performance during this month?","completion":"performance_this_month"}
